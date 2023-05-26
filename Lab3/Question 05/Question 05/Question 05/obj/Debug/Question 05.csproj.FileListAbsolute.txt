@@ -1,0 +1,8 @@
+C:\Users\Vidumini\OneDrive - NSBM\Desktop\C# lab\Practical 02\Question 05\Question 05\Question 05\bin\Debug\Question 05.exe.config
+C:\Users\Vidumini\OneDrive - NSBM\Desktop\C# lab\Practical 02\Question 05\Question 05\Question 05\bin\Debug\Question 05.exe
+C:\Users\Vidumini\OneDrive - NSBM\Desktop\C# lab\Practical 02\Question 05\Question 05\Question 05\bin\Debug\Question 05.pdb
+C:\Users\Vidumini\OneDrive - NSBM\Desktop\C# lab\Practical 02\Question 05\Question 05\Question 05\obj\Debug\Question 05.csproj.AssemblyReference.cache
+C:\Users\Vidumini\OneDrive - NSBM\Desktop\C# lab\Practical 02\Question 05\Question 05\Question 05\obj\Debug\Question 05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vidumini\OneDrive - NSBM\Desktop\C# lab\Practical 02\Question 05\Question 05\Question 05\obj\Debug\Question 05.csproj.CoreCompileInputs.cache
+C:\Users\Vidumini\OneDrive - NSBM\Desktop\C# lab\Practical 02\Question 05\Question 05\Question 05\obj\Debug\Question 05.exe
+C:\Users\Vidumini\OneDrive - NSBM\Desktop\C# lab\Practical 02\Question 05\Question 05\Question 05\obj\Debug\Question 05.pdb
