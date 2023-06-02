@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Question 01, Configuration: Debug Any CPU ------
+1>  Question 01 -> C:\Users\Vidumini\OneDrive - NSBM\Desktop\C# lab\Practical 02\Question 01\Question 01\Question 01\bin\Debug\Question 01.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 9:04 AM and took 07.426 seconds ==========
