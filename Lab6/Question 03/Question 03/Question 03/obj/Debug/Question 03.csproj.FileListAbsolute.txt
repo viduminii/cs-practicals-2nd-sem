@@ -1,0 +1,3 @@
+C:\Users\Vidumini\OneDrive - NSBM\Desktop\C# lab\Practical 04\Question 03\Question 03\Question 03\obj\Debug\Question 03.csproj.AssemblyReference.cache
+C:\Users\Vidumini\OneDrive - NSBM\Desktop\C# lab\Practical 04\Question 03\Question 03\Question 03\obj\Debug\Question 03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vidumini\OneDrive - NSBM\Desktop\C# lab\Practical 04\Question 03\Question 03\Question 03\obj\Debug\Question 03.csproj.CoreCompileInputs.cache
